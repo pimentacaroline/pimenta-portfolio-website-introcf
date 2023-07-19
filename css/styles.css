@@ -63,6 +63,10 @@ a:active {
   color: var(--linkActiveColor);
 }
 
+a.button {
+  color: var(--lightTextColor);
+}
+
 .button,
 button {
   border: none;
